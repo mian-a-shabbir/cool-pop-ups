@@ -1,1 +1,1 @@
-# cool-pop-ups
+# Cool Pop Ups
